@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "3yn0RPPP7Fwif1n4EUulSx",
+    "name" : "Admin_Daniel",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-08-21T19:21:25.706Z",
+  "objectRefs" : [ ]
+}
